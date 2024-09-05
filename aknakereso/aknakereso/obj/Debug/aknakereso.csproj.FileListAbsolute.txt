@@ -1,0 +1,14 @@
+H:\13C\asztali\aknakereso\aknakereso\bin\Debug\aknakereso.exe.config
+H:\13C\asztali\aknakereso\aknakereso\bin\Debug\aknakereso.exe
+H:\13C\asztali\aknakereso\aknakereso\bin\Debug\aknakereso.pdb
+H:\13C\asztali\aknakereso\aknakereso\obj\Debug\aknakereso.csproj.AssemblyReference.cache
+H:\13C\asztali\aknakereso\aknakereso\obj\Debug\aknakereso.csproj.CoreCompileInputs.cache
+H:\13C\asztali\aknakereso\aknakereso\obj\Debug\aknakereso.exe
+H:\13C\asztali\aknakereso\aknakereso\obj\Debug\aknakereso.pdb
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\bin\Debug\aknakereso.exe.config
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\bin\Debug\aknakereso.exe
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\bin\Debug\aknakereso.pdb
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\obj\Debug\aknakereso.csproj.AssemblyReference.cache
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\obj\Debug\aknakereso.csproj.CoreCompileInputs.cache
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\obj\Debug\aknakereso.exe
+C:\Users\Janiii\Desktop\aknakereso\aknakereso\obj\Debug\aknakereso.pdb
